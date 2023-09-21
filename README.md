@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishal 
-- 👀 I’m interested in AI/Machine learning, Cloud Computing, and working in Data Science projects 
-- 🌱 I’m currently learning Pycharm, AWS and Azure Machine Learning Studio
-- 💞️ I’m looking to collaborate on Machine Learning and Analytics projects. So please reach if you have something cool you want to work together on
+- 👀 I’m interested in AI/Machine learning, Database Systems & Architecture, Cloud Computing, and working in Data Science/Engineering projects 
+- 🌱 I’m currently learning SQl, Python, GCP, AWS and Azure Machine Learning Studio
+- 💞️ I’m looking to collaborate on Machine Learning and Data related projects. Feel free to reach out to me @ my email so we can work & learn together 
 - 📫 You can reach me at vishal47mv@gmail.com 
 
 <!---
